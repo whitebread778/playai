@@ -1,0 +1,21 @@
+.App {
+  text-align: start;
+  margin: 0 auto;
+  width: 800px;
+}
+
+.submitBtn {
+  background-color: green;
+  width: 85px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid green;
+  font-size: large;
+  color: white;
+  float: right;
+}
+
+textarea {
+  width: 800px;
+  height: 150px;
+}
